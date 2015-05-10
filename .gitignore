@@ -1,0 +1,7 @@
+pkg/
+tmp/
+.bundle/
+vendor/bundle/
+.vagrant/
+Gemfile.lock
+.envrc
